@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"redraw_raw_minimap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"redraw_raw_minimap",
+  "parent":{
+    "name":"redrawing_raw_minimap",
+    "path":"folders/Scripts/exe_execution/editor_step0/redrawing_raw_minimap.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

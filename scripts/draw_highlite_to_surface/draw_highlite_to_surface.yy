@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_highlite_to_surface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_highlite_to_surface",
+  "parent":{
+    "name":"drawing",
+    "path":"folders/Scripts/drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_group_action_selection",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_group_action_selection",
+  "parent":{
+    "name":"unit_operations",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

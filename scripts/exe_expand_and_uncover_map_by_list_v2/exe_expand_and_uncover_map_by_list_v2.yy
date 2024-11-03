@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_expand_and_uncover_map_by_list_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_expand_and_uncover_map_by_list_v2",
+  "parent":{
+    "name":"operational_map_visibility_subscripts",
+    "path":"folders/Scripts/map_array_operations/generators_to_operate_on_map/operational_map_visibility_subscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

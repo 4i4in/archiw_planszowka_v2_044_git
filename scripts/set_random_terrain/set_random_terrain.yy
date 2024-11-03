@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_random_terrain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_random_terrain",
+  "parent":{
+    "name":"map_array_operations",
+    "path":"folders/Scripts/map_array_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

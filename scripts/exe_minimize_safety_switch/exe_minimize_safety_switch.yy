@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_minimize_safety_switch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_minimize_safety_switch",
+  "parent":{
+    "name":"exe_execution",
+    "path":"folders/Scripts/exe_execution.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

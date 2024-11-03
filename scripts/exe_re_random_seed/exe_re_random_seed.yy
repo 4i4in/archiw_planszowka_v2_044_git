@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_re_random_seed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_re_random_seed",
+  "parent":{
+    "name":"editor_step1",
+    "path":"folders/Scripts/exe_execution/editor_step1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

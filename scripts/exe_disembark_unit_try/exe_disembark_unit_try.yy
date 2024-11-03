@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_disembark_unit_try",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_disembark_unit_try",
+  "parent":{
+    "name":"actions_executions",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/actions_executions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

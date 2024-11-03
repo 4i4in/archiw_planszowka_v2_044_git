@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_disembark_move_group",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_disembark_move_group",
+  "parent":{
+    "name":"action_move_type",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/action_move_type.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

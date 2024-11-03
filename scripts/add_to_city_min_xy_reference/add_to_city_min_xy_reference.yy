@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"add_to_city_min_xy_reference",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"add_to_city_min_xy_reference",
+  "parent":{
+    "name":"grabbers",
+    "path":"folders/Scripts/map_array_operations/grabbers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

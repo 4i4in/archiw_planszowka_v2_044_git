@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"regenerate_drawing_arrays",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"regenerate_drawing_arrays",
+  "parent":{
+    "name":"drawing",
+    "path":"folders/Scripts/drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

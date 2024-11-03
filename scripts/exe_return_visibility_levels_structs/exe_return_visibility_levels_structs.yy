@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_visibility_levels_structs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_visibility_levels_structs",
+  "parent":{
+    "name":"operational_map_visibility_subscripts",
+    "path":"folders/Scripts/map_array_operations/generators_to_operate_on_map/operational_map_visibility_subscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_display_terrain_menu_2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_display_terrain_menu_2",
+  "parent":{
+    "name":"menus_data_feed",
+    "path":"folders/Scripts/menus_data_feed.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

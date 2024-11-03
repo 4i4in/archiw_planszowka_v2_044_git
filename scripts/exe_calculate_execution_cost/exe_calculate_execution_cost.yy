@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_calculate_execution_cost",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_calculate_execution_cost",
+  "parent":{
+    "name":"terrains_check",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/terrains_check.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"_cleanup_array_utylites",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"_cleanup_array_utylites",
+  "parent":{
+    "name":"grabbers",
+    "path":"folders/Scripts/map_array_operations/grabbers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"p_paint_continuos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"p_paint_continuos",
+  "parent":{
+    "name":"props",
+    "path":"folders/Scripts/exe_execution/editor_step1/map_paint_functions/props.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

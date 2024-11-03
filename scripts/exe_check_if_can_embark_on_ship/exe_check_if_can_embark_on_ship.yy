@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_check_if_can_embark_on_ship",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_check_if_can_embark_on_ship",
+  "parent":{
+    "name":"terrains_check",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/terrains_check.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

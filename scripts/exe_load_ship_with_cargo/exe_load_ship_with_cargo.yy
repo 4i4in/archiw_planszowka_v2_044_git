@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_load_ship_with_cargo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_load_ship_with_cargo",
+  "parent":{
+    "name":"actions_executions",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/actions_executions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

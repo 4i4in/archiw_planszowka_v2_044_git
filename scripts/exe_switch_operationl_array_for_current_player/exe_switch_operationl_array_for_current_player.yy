@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_switch_operationl_array_for_current_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_switch_operationl_array_for_current_player",
+  "parent":{
+    "name":"exe_execution",
+    "path":"folders/Scripts/exe_execution.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

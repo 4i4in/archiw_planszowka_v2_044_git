@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_generator_side_operational_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_generator_side_operational_map",
+  "parent":{
+    "name":"generators_to_operate_on_map",
+    "path":"folders/Scripts/map_array_operations/generators_to_operate_on_map.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

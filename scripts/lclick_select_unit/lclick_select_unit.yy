@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lclick_select_unit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lclick_select_unit",
+  "parent":{
+    "name":"mouse_utylity",
+    "path":"folders/Scripts/mouse_utylity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_end_players_turn_by_click_ask_yn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_end_players_turn_by_click_ask_yn",
+  "parent":{
+    "name":"exe_ask_yes_no",
+    "path":"folders/Scripts/exe_execution/exe_ask_yes_no.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

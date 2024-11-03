@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rexe_display_selected_unit_detail_info",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rexe_display_selected_unit_detail_info",
+  "parent":{
+    "name":"exe_menu",
+    "path":"folders/Scripts/exe_execution/exe_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

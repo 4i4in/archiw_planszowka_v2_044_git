@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"return_unknown_unit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"return_unknown_unit",
+  "parent":{
+    "name":"sides_array_operations",
+    "path":"folders/Scripts/sides_array_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

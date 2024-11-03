@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_roads",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_roads",
+  "parent":{
+    "name":"drawing_props_lists",
+    "path":"folders/Scripts/drawing/drawing_props_lists.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

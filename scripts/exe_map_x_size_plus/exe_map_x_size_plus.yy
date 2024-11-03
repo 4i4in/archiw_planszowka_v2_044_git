@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_map_x_size_plus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_map_x_size_plus",
+  "parent":{
+    "name":"editor_step1",
+    "path":"folders/Scripts/exe_execution/editor_step1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_move_view_on_minimap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_move_view_on_minimap",
+  "parent":{
+    "name":"mouse_utylity",
+    "path":"folders/Scripts/mouse_utylity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

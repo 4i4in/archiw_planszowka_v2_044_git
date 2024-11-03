@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_check_this_unit_groups_string_for_active_own_buffs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_check_this_unit_groups_string_for_active_own_buffs",
+  "parent":{
+    "name":"buff_operations",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/buff_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

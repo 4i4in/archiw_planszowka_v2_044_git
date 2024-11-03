@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_save_tile_administration_on_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_save_tile_administration_on_map",
+  "parent":{
+    "name":"sub_scripts",
+    "path":"folders/Scripts/exe_execution/city_calculations/sub_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

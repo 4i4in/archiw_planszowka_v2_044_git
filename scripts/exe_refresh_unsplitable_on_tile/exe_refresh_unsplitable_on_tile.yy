@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_refresh_unsplitable_on_tile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_refresh_unsplitable_on_tile",
+  "parent":{
+    "name":"actions_executions",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/actions_executions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

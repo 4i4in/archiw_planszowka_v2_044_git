@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_this_city_asigments",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_this_city_asigments",
+  "parent":{
+    "name":"sub_scripts",
+    "path":"folders/Scripts/exe_execution/city_calculations/sub_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

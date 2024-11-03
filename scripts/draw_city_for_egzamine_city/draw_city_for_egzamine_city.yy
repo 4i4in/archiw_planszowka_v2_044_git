@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_city_for_egzamine_city",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_city_for_egzamine_city",
+  "parent":{
+    "name":"drawing",
+    "path":"folders/Scripts/drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

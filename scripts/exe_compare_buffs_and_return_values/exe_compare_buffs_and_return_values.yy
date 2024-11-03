@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_compare_buffs_and_return_values",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_compare_buffs_and_return_values",
+  "parent":{
+    "name":"buff_operations",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/buff_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

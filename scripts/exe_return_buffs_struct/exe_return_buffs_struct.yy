@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_buffs_struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_buffs_struct",
+  "parent":{
+    "name":"sides_array_operations",
+    "path":"folders/Scripts/sides_array_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

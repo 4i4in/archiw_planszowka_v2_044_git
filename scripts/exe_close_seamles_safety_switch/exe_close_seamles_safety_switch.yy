@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_close_seamles_safety_switch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_close_seamles_safety_switch",
+  "parent":{
+    "name":"editor_step0",
+    "path":"folders/Scripts/exe_execution/editor_step0.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

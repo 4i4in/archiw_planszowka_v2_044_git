@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_average_values_raw_map_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_average_values_raw_map_v2",
+  "parent":{
+    "name":"map_generators",
+    "path":"folders/Scripts/map_array_operations/map_generators.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

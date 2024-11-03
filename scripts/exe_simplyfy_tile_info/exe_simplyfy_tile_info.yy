@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_simplyfy_tile_info",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_simplyfy_tile_info",
+  "parent":{
+    "name":"city_calculations",
+    "path":"folders/Scripts/exe_execution/city_calculations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

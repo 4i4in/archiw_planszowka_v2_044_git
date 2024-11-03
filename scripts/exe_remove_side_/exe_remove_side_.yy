@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_remove_side_",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_remove_side_",
+  "parent":{
+    "name":"editor_step6",
+    "path":"folders/Scripts/exe_execution/editor_step6.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

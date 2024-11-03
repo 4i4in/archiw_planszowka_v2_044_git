@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_switch_city_menu_xy_list",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_switch_city_menu_xy_list",
+  "parent":{
+    "name":"city_mini_menu",
+    "path":"folders/Scripts/exe_execution/game_play/city_mini_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

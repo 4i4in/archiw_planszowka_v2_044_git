@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_surface_FOW",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_surface_FOW",
+  "parent":{
+    "name":"fog_of_war",
+    "path":"folders/Scripts/drawing/fog_of_war.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_select_specific_group_in_menu_3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_select_specific_group_in_menu_3",
+  "parent":{
+    "name":"exe_menu",
+    "path":"folders/Scripts/exe_execution/exe_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

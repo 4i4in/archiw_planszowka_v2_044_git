@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_mark_transported_unit_on_ship",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_mark_transported_unit_on_ship",
+  "parent":{
+    "name":"actions_executions",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/actions_executions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

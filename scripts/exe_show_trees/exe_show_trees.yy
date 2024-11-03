@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_show_trees",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_show_trees",
+  "parent":{
+    "name":"game_play",
+    "path":"folders/Scripts/exe_execution/game_play.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

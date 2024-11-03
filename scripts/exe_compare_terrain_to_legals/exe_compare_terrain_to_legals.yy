@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_compare_terrain_to_legals",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_compare_terrain_to_legals",
+  "parent":{
+    "name":"terrains_check",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/terrains_check.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

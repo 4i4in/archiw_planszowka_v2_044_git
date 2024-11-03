@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_starting_order_in_unit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_starting_order_in_unit",
+  "parent":{
+    "name":"unit_order",
+    "path":"folders/Scripts/exe_execution/editor_step4/unit_order.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_try_to_embark_unit_to_vessel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_try_to_embark_unit_to_vessel",
+  "parent":{
+    "name":"actions_executions",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/actions_executions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ascii_call_flip_value",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ascii_call_flip_value",
+  "parent":{
+    "name":"ascii_scripts",
+    "path":"folders/Scripts/ascii_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

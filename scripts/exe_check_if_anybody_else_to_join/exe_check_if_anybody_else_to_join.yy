@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_check_if_anybody_else_to_join",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_check_if_anybody_else_to_join",
+  "parent":{
+    "name":"terrains_check",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/terrains_check.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

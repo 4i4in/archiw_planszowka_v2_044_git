@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_build_turn_order",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_build_turn_order",
+  "parent":{
+    "name":"turn_order",
+    "path":"folders/Scripts/exe_execution/game_play/turn_order.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"kill_duplicates_array_2d",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"kill_duplicates_array_2d",
+  "parent":{
+    "name":"generators_to_operate_on_map",
+    "path":"folders/Scripts/map_array_operations/generators_to_operate_on_map.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

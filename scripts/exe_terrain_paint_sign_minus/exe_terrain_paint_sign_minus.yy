@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_terrain_paint_sign_minus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_terrain_paint_sign_minus",
+  "parent":{
+    "name":"editor_step1",
+    "path":"folders/Scripts/exe_execution/editor_step1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"show_mouseover_info",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"show_mouseover_info",
+  "parent":{
+    "name":"mouse_utylity",
+    "path":"folders/Scripts/mouse_utylity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

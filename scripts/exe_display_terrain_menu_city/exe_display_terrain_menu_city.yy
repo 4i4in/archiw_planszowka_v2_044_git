@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_display_terrain_menu_city",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_display_terrain_menu_city",
+  "parent":{
+    "name":"exe_menu",
+    "path":"folders/Scripts/exe_execution/exe_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

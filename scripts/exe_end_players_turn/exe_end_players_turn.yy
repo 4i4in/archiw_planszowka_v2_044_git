@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_end_players_turn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_end_players_turn",
+  "parent":{
+    "name":"turn_order",
+    "path":"folders/Scripts/exe_execution/game_play/turn_order.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

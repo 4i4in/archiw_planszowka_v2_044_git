@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_copy_seed_to_clipboard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_copy_seed_to_clipboard",
+  "parent":{
+    "name":"editor_step1",
+    "path":"folders/Scripts/exe_execution/editor_step1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

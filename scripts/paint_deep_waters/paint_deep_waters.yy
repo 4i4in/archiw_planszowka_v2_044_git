@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"paint_deep_waters",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"paint_deep_waters",
+  "parent":{
+    "name":"terrains",
+    "path":"folders/Scripts/exe_execution/editor_step1/map_paint_functions/terrains.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

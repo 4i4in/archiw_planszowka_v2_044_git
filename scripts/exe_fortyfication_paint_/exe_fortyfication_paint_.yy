@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_fortyfication_paint_",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_fortyfication_paint_",
+  "parent":{
+    "name":"editor_step4",
+    "path":"folders/Scripts/exe_execution/editor_step4.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_check_production_multipler_buffs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_check_production_multipler_buffs",
+  "parent":{
+    "name":"sub_scripts",
+    "path":"folders/Scripts/exe_execution/city_calculations/sub_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

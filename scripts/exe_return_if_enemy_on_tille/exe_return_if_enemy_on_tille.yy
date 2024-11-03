@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_if_enemy_on_tille",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_if_enemy_on_tille",
+  "parent":{
+    "name":"game_play",
+    "path":"folders/Scripts/exe_execution/game_play.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

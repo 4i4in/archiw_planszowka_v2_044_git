@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_send_pop_to_work_in",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_send_pop_to_work_in",
+  "parent":{
+    "name":"sub_scripts",
+    "path":"folders/Scripts/exe_execution/city_calculations/sub_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

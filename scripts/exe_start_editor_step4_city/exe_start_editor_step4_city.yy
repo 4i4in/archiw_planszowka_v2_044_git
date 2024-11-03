@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_start_editor_step4_city",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_start_editor_step4_city",
+  "parent":{
+    "name":"goto_editor4_subs",
+    "path":"folders/Scripts/exe_execution/exe_menu/goto/goto_editor4_subs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

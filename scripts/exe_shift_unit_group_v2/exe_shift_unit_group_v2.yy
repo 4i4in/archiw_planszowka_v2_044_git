@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_shift_unit_group_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_shift_unit_group_v2",
+  "parent":{
+    "name":"unit_operations",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

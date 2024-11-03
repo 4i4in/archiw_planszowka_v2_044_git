@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_game_board_array_new",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_game_board_array_new",
+  "parent":{
+    "name":"map_array_operations",
+    "path":"folders/Scripts/map_array_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

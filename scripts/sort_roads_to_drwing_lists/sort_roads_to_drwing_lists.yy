@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sort_roads_to_drwing_lists",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sort_roads_to_drwing_lists",
+  "parent":{
+    "name":"sorting_array_to_ds_lists",
+    "path":"folders/Scripts/drawing/sorting_array_to_ds_lists.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

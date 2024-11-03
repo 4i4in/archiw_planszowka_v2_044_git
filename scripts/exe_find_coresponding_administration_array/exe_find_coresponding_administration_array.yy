@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_find_coresponding_administration_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_find_coresponding_administration_array",
+  "parent":{
+    "name":"sub_scripts",
+    "path":"folders/Scripts/exe_execution/city_calculations/sub_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

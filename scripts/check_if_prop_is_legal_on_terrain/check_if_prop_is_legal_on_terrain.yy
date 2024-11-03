@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"check_if_prop_is_legal_on_terrain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"check_if_prop_is_legal_on_terrain",
+  "parent":{
+    "name":"props",
+    "path":"folders/Scripts/exe_execution/editor_step1/map_paint_functions/props.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

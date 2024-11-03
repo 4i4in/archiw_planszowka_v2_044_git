@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_legal_terrains_for_this_group",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_legal_terrains_for_this_group",
+  "parent":{
+    "name":"terrains_check",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations/terrains_check.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

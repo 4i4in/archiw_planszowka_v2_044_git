@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_policy_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_policy_state",
+  "parent":{
+    "name":"game_play",
+    "path":"folders/Scripts/exe_execution/game_play.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

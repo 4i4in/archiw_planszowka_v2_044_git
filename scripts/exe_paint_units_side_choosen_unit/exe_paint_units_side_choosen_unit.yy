@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_paint_units_side_choosen_unit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_paint_units_side_choosen_unit",
+  "parent":{
+    "name":"editor_step7",
+    "path":"folders/Scripts/exe_execution/editor_step7.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

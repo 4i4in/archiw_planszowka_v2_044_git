@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_yes_no_srceen_no",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_yes_no_srceen_no",
+  "parent":{
+    "name":"exe_ask_yes_no",
+    "path":"folders/Scripts/exe_execution/exe_ask_yes_no.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

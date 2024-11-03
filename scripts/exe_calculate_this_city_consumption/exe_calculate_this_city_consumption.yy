@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_calculate_this_city_consumption",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_calculate_this_city_consumption",
+  "parent":{
+    "name":"city_calculations",
+    "path":"folders/Scripts/exe_execution/city_calculations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

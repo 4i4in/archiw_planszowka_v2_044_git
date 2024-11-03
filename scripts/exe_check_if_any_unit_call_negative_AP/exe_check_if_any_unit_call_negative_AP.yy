@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_check_if_any_unit_call_negative_AP",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_check_if_any_unit_call_negative_AP",
+  "parent":{
+    "name":"unit_operations",
+    "path":"folders/Scripts/exe_execution/game_play/unit_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

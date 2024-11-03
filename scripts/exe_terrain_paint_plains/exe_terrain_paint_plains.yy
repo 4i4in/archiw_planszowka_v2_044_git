@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_terrain_paint_plains",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_terrain_paint_plains",
+  "parent":{
+    "name":"terrain_paints",
+    "path":"folders/Scripts/exe_execution/editor_step1/terrain_paints.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_visibility_detectors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_visibility_detectors",
+  "parent":{
+    "name":"operational_map_visibility_subscripts",
+    "path":"folders/Scripts/map_array_operations/generators_to_operate_on_map/operational_map_visibility_subscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

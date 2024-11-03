@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_save_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_save_map",
+  "parent":{
+    "name":"exe_save_load",
+    "path":"folders/Scripts/exe_execution/exe_save_load.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

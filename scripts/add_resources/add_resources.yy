@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"add_resources",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"add_resources",
+  "parent":{
+    "name":"props",
+    "path":"folders/Scripts/exe_execution/editor_step1/map_paint_functions/props.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

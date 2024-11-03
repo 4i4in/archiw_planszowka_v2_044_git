@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rclick_check_terrain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rclick_check_terrain",
+  "parent":{
+    "name":"mouse_utylity",
+    "path":"folders/Scripts/mouse_utylity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

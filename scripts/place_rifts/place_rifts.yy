@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"place_rifts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"place_rifts",
+  "parent":{
+    "name":"transfer_raw_map_to_array_generator",
+    "path":"folders/Scripts/exe_execution/editor_step0/transfer_raw_map_to_array_generator.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

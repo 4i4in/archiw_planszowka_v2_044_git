@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_transfer_raw_to_array_and_go_to_editor_step1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_transfer_raw_to_array_and_go_to_editor_step1",
+  "parent":{
+    "name":"exe_menu",
+    "path":"folders/Scripts/exe_execution/exe_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

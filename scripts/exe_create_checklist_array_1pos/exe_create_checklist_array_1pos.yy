@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_create_checklist_array_1pos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_create_checklist_array_1pos",
+  "parent":{
+    "name":"checklist_array_operations",
+    "path":"folders/Scripts/map_array_operations/checklist_array_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_minimap_scale_minus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_minimap_scale_minus",
+  "parent":{
+    "name":"editor_step0",
+    "path":"folders/Scripts/exe_execution/editor_step0.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

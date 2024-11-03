@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"return_string_terrain_around",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"return_string_terrain_around",
+  "parent":{
+    "name":"map_array_operations",
+    "path":"folders/Scripts/map_array_operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

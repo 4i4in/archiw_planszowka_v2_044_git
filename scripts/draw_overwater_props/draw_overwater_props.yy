@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_overwater_props",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_overwater_props",
+  "parent":{
+    "name":"drawing_props_lists",
+    "path":"folders/Scripts/drawing/drawing_props_lists.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
